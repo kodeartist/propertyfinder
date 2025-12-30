@@ -1,11 +1,12 @@
 ## Property Finder
+The following is the brandkit info for propertyfinder project.
 
 ### Colors
-Blue - #1e5277
-Dark Gray - #b3b3b3
-Light Gray - #e8ebed
-AshWhite - #f4f5f6
-Gold -  #b4ab74
+- Blue - #1e5277
+- Dark Gray - #b3b3b3
+- Light Gray - #e8ebed
+- AshWhite - #f4f5f6
+- Gold -  #b4ab74
 
 ### Fonts Colors
  - Base Text - #000000
